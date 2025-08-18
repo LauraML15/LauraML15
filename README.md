@@ -20,7 +20,6 @@ Combino mi experiencia en **comunicación estratégica, relaciones públicas y a
 
 ## 🌱 Actualmente aprendiendo  
 📌 **Data Analytics** → estadística aplicada, visualización interactiva, métricas de negocio  
-
 📌 **Machine Learning básico** → scikit-learn  
 📌 **Desarrollo de portafolio en GitHub** con proyectos de análisis de datos  
 
