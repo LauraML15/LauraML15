@@ -36,14 +36,6 @@ Combino mi experiencia en **comunicación estratégica, relaciones públicas y a
 
 ---
 
-
-## 📊 Estadísticas de mi GitHub  
-
-![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LauraMontoyaLucio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMontoyaLucio&layout=compact&theme=radical)  
-
----
-
 ## 🤝 Conectemos 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lauramontoyalucio)  
