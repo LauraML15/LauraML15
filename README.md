@@ -1,33 +1,79 @@
-# 👋 Hola, soy **Laura Montoya Lucio**  
-
-🎯 **Especialista en Comunicación y Gestión de Proyectos**, en transición hacia el **Análisis de Datos**.  
-Combino mi experiencia en **comunicación estratégica, relaciones públicas y atención a públicos** con herramientas de **data analytics** para transformar datos en **historias claras que apoyen la toma de decisiones**.  
-
----
-
-## 🛠️ Tecnologías & Herramientas  
-
-### 📊 Análisis de Datos  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-
-### 📈 Visualización  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)  
-
-### 📂 Gestión de Proyectos  
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)  
+<!-- Encabezado principal -->
+<h1 align="center">👋 ¡Hola! Soy Laura Montoya Lucio</h1>
+<h3 align="center">Comunicóloga & Project Manager | Enfoque en análisis, estrategia y optimización de procesos</h3>
 
 ---
 
-## 🌱 Actualmente aprendiendo  
-📌 **Data Analytics** → estadística aplicada, visualización interactiva, métricas de negocio  
-📌 **Machine Learning básico** → scikit-learn  
-📌 **Desarrollo de portafolio en GitHub** con proyectos de análisis de datos  
+### 🌱 Sobre mí
+Soy **Comunicóloga y Project Manager** con más de 10 años de experiencia liderando proyectos estratégicos, comunicación organizacional y atención a públicos.  
+Me especializo en conectar el **análisis de datos con la gestión y la toma de decisiones**, combinando pensamiento analítico con enfoque humano.
+
+🎯 Actualmente fortalezco mi perfil en **análisis de datos** para integrar una visión más estratégica a la gestión de proyectos y la comunicación organizacional.
 
 ---
 
-## 🤝 Conectemos 
+### 🧩 Áreas de experiencia
+- **Gestión de proyectos:** planificación, liderazgo de equipos y seguimiento de indicadores.  
+- **Comunicación estratégica:** diseño de mensajes, campañas y gestión de stakeholders.  
+- **Análisis y optimización de procesos:** uso de métricas y datos para mejorar la eficiencia.  
+- **Atención a clientes y relaciones públicas:** implementación de estrategias orientadas a resultados.  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lauramontoyalucio)  
-- 📧 **lauramontoyalucio@gmail.com**  
+---
 
-✨ Siempre abierta a colaborar en proyectos que unan **comunicación, datos y estrategia**.  
+### 🧠 Intereses profesionales
+- Estrategia y toma de decisiones basadas en datos  
+- Business Intelligence y optimización de procesos  
+- Comunicación organizacional y transformación digital  
+- Aprendizaje continuo y desarrollo profesional  
+
+---
+
+### 🛠️ Herramientas y tecnologías
+
+<div align="center">
+
+#### 💼 Gestión de proyectos  
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Monday.com-ff4f00?style=for-the-badge&logo=monday&logoColor=white"/>
+
+#### 📊 Análisis de datos  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+#### 📈 Visualización y documentación  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black"/> 
+
+</div>
+
+---
+
+### 📊 Estadísticas de mi GitHub
+
+<div align="center">
+  
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramontoyalucio&show_icons=true&theme=calm&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramontoyalucio&layout=compact&theme=calm&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Cómo contactarme
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lauramontoyalucio)
+[![Gmail](https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramontoyalucio@gmail.com)
+
+</div>
+
+---
+
+<h3 align="center">✨ Creo en el valor de los datos para tomar decisiones más humanas, sostenibles y efectivas ✨</h3>
